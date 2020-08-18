@@ -1,0 +1,16 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+nav img {
+width: 40%;
+}
+.fondo{
+  background-color: #E83E8C;
+}
+.card {
+  width: 16rem;
+}
+
+.footer-logo{
+  max-height: 150px;
+}
